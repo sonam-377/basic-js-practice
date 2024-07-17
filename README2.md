@@ -1,5 +1,0 @@
-- pratice gareko hai mailey
-- timi
-- nai
-- hou
-- timi nai hou
