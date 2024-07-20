@@ -9,5 +9,5 @@ switch (true) {
     break;
 
   default:
-    alert("look at the keyboard and type carefully u dumbass");
+    alert("you cannot vote");
 }
